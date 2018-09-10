@@ -1,0 +1,14 @@
+"VertexLitGeneric"
+{
+	$basetexture "customb2/body_d"
+	$bumpmap "null-bumpmap"
+	$phongexponenttexture "customb2/fexp"
+	
+	$phong "1"
+	$phongexponent "8"
+	$phongboost "32"
+	$phongfresnelranges "[0.25 0.65 1.0]"
+	$phongalbedotint "1"
+	
+	$selfillum "1"
+}
